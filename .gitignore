@@ -1,0 +1,14 @@
+# Fichiers compilés (se régénèrent avec monkeyc)
+bin/
+*.prg
+*.prg.debug.xml
+*.iq
+
+# Clé de développeur : ne jamais la publier
+*.der
+*.pem
+
+# Divers
+.vscode/
+gen/
+mir/

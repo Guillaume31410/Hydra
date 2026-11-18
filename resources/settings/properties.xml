@@ -1,0 +1,6 @@
+<properties>
+    <property id="intervalMin" type="number">45</property>
+    <property id="startHour" type="number">8</property>
+    <property id="endHour" type="number">21</property>
+    <property id="snoozeMin" type="number">10</property>
+</properties>

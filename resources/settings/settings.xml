@@ -1,0 +1,14 @@
+<settings>
+    <setting propertyKey="@Properties.intervalMin" title="@Strings.IntervalTitle">
+        <settingConfig type="numeric" min="15" max="240"/>
+    </setting>
+    <setting propertyKey="@Properties.startHour" title="@Strings.StartTitle">
+        <settingConfig type="numeric" min="0" max="23"/>
+    </setting>
+    <setting propertyKey="@Properties.endHour" title="@Strings.EndTitle">
+        <settingConfig type="numeric" min="1" max="24"/>
+    </setting>
+    <setting propertyKey="@Properties.snoozeMin" title="@Strings.SnoozeTitle">
+        <settingConfig type="numeric" min="5" max="60"/>
+    </setting>
+</settings>

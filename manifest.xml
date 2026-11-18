@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+    <iq:application id="3f9c2a7e5b1d4c8e9a6f0b2d4e8c1a7f" type="watch-app" name="@Strings.AppName" entry="HydraApp" launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.2.0">
+        <iq:products>
+            <iq:product id="fr165"/>
+        </iq:products>
+        <iq:permissions>
+            <iq:uses-permission id="Background"/>
+        </iq:permissions>
+        <iq:languages>
+            <iq:language>fre</iq:language>
+        </iq:languages>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>

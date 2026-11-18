@@ -1,0 +1,7 @@
+<strings>
+    <string id="AppName">Hydra</string>
+    <string id="IntervalTitle">Intervalle entre rappels (minutes)</string>
+    <string id="StartTitle">Heure de début des rappels</string>
+    <string id="EndTitle">Heure de fin des rappels</string>
+    <string id="SnoozeTitle">Durée de « plus tard » (minutes)</string>
+</strings>
